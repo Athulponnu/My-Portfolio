@@ -34,7 +34,7 @@ body {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 25px;
+  gap: 20px;
 }
 .navbar ul li a {
   text-decoration: none;
